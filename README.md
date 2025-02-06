@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Krrish Garg</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ###
 
