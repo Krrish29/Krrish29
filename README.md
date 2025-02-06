@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krrish Garg</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="160" src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif?cid=790b7611yois5zv2s5yrp4j3t5zlqrcm1jxic0qz6ra3feky&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
