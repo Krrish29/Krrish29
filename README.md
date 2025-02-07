@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Krrish Garg</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 ###
 
@@ -50,9 +51,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Krrish29/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Krrish29/Krrish29/output/snake.svg" alt="Snake animation" />
 
 ###
