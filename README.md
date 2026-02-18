@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krrish Garg</h1>
-<h3 align="center">Full Stack Developer | Backend Enthusiast | Telecom Solutions Explorer</h3>
+<h3 align="center">Full Stack Developer | Backend Enthusiast | UI/UX Designer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krrish29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
