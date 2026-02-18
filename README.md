@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krrish Garg</h1>
+<h1 align="center">Hey felas 👋, I'm Krrish Garg</h1>
 <h3 align="center">Full Stack Developer | Backend Enthusiast | UI/UX Designer </h3>
 
 <p align="center">
