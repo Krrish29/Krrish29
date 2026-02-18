@@ -8,10 +8,9 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on my **Telecom Multi-Asset Distribution System**.
+- 🔭 I’m currently working final b-tech yr student.
 - 🌐 Focused on building scalable **Spring Boot** applications with modern **UI/UX**.
 - ⚡ Fun fact: I love transforming complex database logic into clean, user-friendly interfaces.
-- 📫 Reach out to me on **LinkedIn** or **Instagram** below!
 
 ---
 
