@@ -11,7 +11,7 @@
 - 🎓 Final Year B.Tech Student  
 - 🔭 Currently building scalable **Spring Boot** applications  
 - 🌐 Focused on modern **UI/UX** integration  
-- ⚡ Fun fact: I love transforming complex database logic into clean, user-friendly interfaces  
+- ⚡ Passionate about transforming complex database logic into clean, user-friendly interfaces  
 
 ---
 
@@ -69,6 +69,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="200" />
-</p>
+<h3 align="center">🚀 Always Learning | Always Building</h3>
