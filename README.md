@@ -2,15 +2,16 @@
 <h3 align="center">Full Stack Developer | Backend Enthusiast | Telecom Solutions Explorer</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Krrish29/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Krrish29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working final b-tech yr student.
-- 🌐 Focused on building scalable **Spring Boot** applications with modern **UI/UX**.
-- ⚡ Fun fact: I love transforming complex database logic into clean, user-friendly interfaces.
+- 🎓 Final Year B.Tech Student  
+- 🔭 Currently building scalable **Spring Boot** applications  
+- 🌐 Focused on modern **UI/UX** integration  
+- ⚡ Fun fact: I love transforming complex database logic into clean, user-friendly interfaces  
 
 ---
 
@@ -45,31 +46,29 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krrish29&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krrish29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krrish29&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krrish29&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krrish29&theme=dracula&hide_border=false" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Krrish29&theme=dracula&hide_border=false" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
+
 <div align="center">
   <a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/krrishhell._007/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
-<br>
+---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FmMXgwemdsZnY0NGt3MXBqNnNmMmw0ZHE3NnNja2NndDM3cmNodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="200" />
 </p>
