@@ -50,6 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krrish29&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Krrish29&theme=dracula&hide_border=false" />
+</p>
+
 ---
 
 ### 🤝 Connect with Me
