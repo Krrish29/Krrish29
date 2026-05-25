@@ -88,6 +88,6 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 <div align="center">
 
-### ⚡ Always Learning • Always Building • Always Improving
+### • Always Learning • Always Building • Always Improving
 
 </div>
