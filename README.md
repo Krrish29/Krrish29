@@ -1,112 +1,72 @@
+<h1 align="center">Hey felas 👋, I'm Krrish Garg</h1>
+<h3 align="center">Full Stack Developer | Backend Enthusiast | UI/UX Designer </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Krrish29&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 💫 About Me
+- 🎓 Final Year B.Tech Student  
+- 🔭 Currently building scalable **Spring Boot** applications  
+- 🌐 Focused on modern **UI/UX** integration  
+- ⚡ Passionate about transforming complex database logic into clean, user-friendly interfaces  
+
+---
+
+### 🛠 Tech Stack
+
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  
+  <br><br>
 
-# ⚡ Hey felas 👋, I'm Krrish Garg
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Enthusiast;UI%2FUX+Designer;Spring+Boot+%7C+React+Developer" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Krrish29&label=Profile+Views&color=7F5AF0&style=for-the-badge" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
 ---
 
-# 💫 About Me
+### 📊 GitHub Stats
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krrish29&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krrish29&layout=compact&langs_count=6&theme=dracula" height="150" />
+</div>
 
-🎓 Final Year B.Tech Student  
-💻 Full Stack Developer focused on scalable backend systems  
-⚡ Passionate about Spring Boot, React & modern UI/UX  
-🚀 Love building real-world applications with clean architecture  
-🧠 Exploring System Design, AI Integrations & Telecom Solutions  
-🌱 Currently improving DSA & backend optimization skills  
-
-<br><br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Krrish29&theme=dracula&hide_border=false" />
+</p>
 
 ---
 
-# 🛠 Tech Stack
+### 🤝 Connect with Me
 
 <div align="center">
-
-### 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,javascript,html,css" />
-
-<br><br>
-
-### ⚙️ Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br><br>
-
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
+  <a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/krrishhell._007/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krrish29&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish29&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Krrish29&theme=tokyonight&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
-# 🚀 Currently Working On
-
-- 🔥 Scalable Spring Boot Applications  
-- ⚡ React + Modern UI/UX Projects  
-- 🤖 AI Based Applications  
-- 🎮 Anime RPG Discord Bot Inspired by Solo Leveling  
-- 📚 DSA & Placement Preparation  
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/krrishhell._007/?hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:yourmail@example.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Always Learning • Always Building • Always Improving
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
-
-</div>
+<h3 align="center">🚀 Always Learning | Always Building</h3>
