@@ -16,12 +16,11 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ## 💫 About Me
 
-- 🎓 Final Year B.Tech Student  
-- 🔭 Building scalable **Spring Boot** applications  
-- 🌐 Focused on modern **UI/UX** experiences  
-- ⚡ Passionate about clean backend architecture  
-- 🚀 Exploring AI integrations & system design  
-- 📚 Currently improving DSA & backend optimization skills  
+  Building scalable **Spring Boot** applications  
+  Focused on modern **UI/UX** experiences  
+  Passionate about clean backend architecture  
+  Exploring AI integrations & system design  
+  Currently improving DSA & backend optimization skills  
 
 ---
 
