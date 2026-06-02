@@ -1,4 +1,15 @@
 <h1 align="center">Hey fellas 👋, I'm Krrish Garg</h1>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/krrishhell._007/?hl=en" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 <h3 align="center">
 Full Stack Developer • Backend Enthusiast • UI/UX Designer
@@ -81,16 +92,5 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 <div align="center">
 
 ### 🚀 Always Learning • Always Building • Always Improving
-<p align="center">
-
-<a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/krrishhell._007/?hl=en" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
 
 </div>
