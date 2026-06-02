@@ -36,7 +36,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 ---
 
 <h3 align="center">
-## Tech Stack
+  Tech Stacks
 </h3>
 
 <table align="center">
