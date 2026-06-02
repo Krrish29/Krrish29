@@ -72,8 +72,15 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ---
 
-## 🤝 Connect With Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krrish29/Krrish29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
+---
+
+<div align="center">
+
+### 🚀 Always Learning • Always Building • Always Improving
 <p align="center">
 
 <a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
@@ -85,19 +92,5 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 </a>
 
 </p>
-
----
-
-## 🐍  Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krrish29/Krrish29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-<div align="center">
-
-### 🚀 Always Learning • Always Building • Always Improving
 
 </div>
