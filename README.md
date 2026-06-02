@@ -1,4 +1,4 @@
-<h1 align="center">Hey felas 👋, I'm Krrish Garg</h1>
+<h1 align="center">Hey fellas 👋, I'm Krrish Garg</h1>
 
 <h3 align="center">
 Full Stack Developer • Backend Enthusiast • UI/UX Designer
@@ -16,11 +16,11 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ## 💫 About Me
 
--  Building scalable **Spring Boot** applications  
--  Focused on modern **UI/UX** experiences  
--  Passionate about clean backend architecture  
-- Exploring AI integrations & system design  
--  Currently improving DSA & backend optimization skills  
+- 🚀 Building scalable **Spring Boot** applications
+- 🎨 Focused on modern **UI/UX** experiences
+- ⚡ Passionate about clean backend architecture
+- 🤖 Exploring AI integrations & system design
+- 📚 Currently improving DSA & backend optimization skills
 
 ---
 
@@ -64,7 +64,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrish29&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Krrish29&theme=tokyonight&hide_border=true" />
 
@@ -72,22 +72,48 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krrish29&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krrish29&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://www.instagram.com/krrishhell._007/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/krrishhell._007/?hl=en" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krrish29/Krrish29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <div align="center">
 
-### • Always Learning • Always Building • Always Improving
+### 🚀 Always Learning • Always Building • Always Improving
 
 </div>
