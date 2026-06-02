@@ -96,7 +96,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Krrish29/Krrish29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
