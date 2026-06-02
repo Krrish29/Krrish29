@@ -1,4 +1,4 @@
-<h1 align="center">Hey fellas 👋, I'm Krrish Garg</h1>
+<h1 align="center">Hey fellas, I'm Krrish Garg</h1>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/krrish-garg-17ba90255/" target="_blank">
@@ -25,7 +25,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ---
 
-## 💫 About Me
+## About Me
 
 -  Building scalable **Spring Boot** applications
 -  Focused on modern **UI/UX** experiences
@@ -35,13 +35,13 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 👨‍💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,cpp,javascript,html,css" />
 
@@ -49,7 +49,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 <td align="center" width="33%">
 
-### ⚙️ Frameworks
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
 
@@ -57,7 +57,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 <td align="center" width="33%">
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
 
@@ -67,7 +67,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
