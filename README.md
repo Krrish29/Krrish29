@@ -71,7 +71,11 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 <h2 align="center">GitHub Status</h2>
 
----
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Krrish29&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <div align="center">
 
