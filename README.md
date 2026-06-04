@@ -70,7 +70,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 ---
 
 ## GitHub Stats
-
+<p align="center">
 <div align="center">
 
 <br><br>
