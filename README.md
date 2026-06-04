@@ -69,7 +69,7 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 ---
 
-## **GitHub Status**
+<h2 align="center">GitHub Status</h2>
 
 ---
 
