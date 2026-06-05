@@ -79,7 +79,9 @@ Full Stack Developer • Backend Enthusiast • UI/UX Designer
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Krrish29&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Krrish29&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
