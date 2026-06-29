@@ -57,7 +57,7 @@
 <h2 align="center">GitHub Status</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Krrish29&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Krrish29&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
